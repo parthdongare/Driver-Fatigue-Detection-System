@@ -1,0 +1,5 @@
+  <a class="navbar-brand" style="font-weight: bolder; font-family: Cedarville Cursive; font-style: italic; font-size:larger; text-shadow: 5dvh;" href="/">Real time prevention of driver fatigue and exhaustion</a>
+<div>Parth Dongare</div>
+        <div>Mushir Inamdar</div>
+        <div>Yash Dhomse</div>
+        <div>Samruddhi Gadekar</div>
